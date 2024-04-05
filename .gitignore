@@ -1,0 +1,10 @@
+# Virtual environment
+venv
+
+# Jupyter files
+*.ipynb
+
+# Editors
+.idea
+.vscode
+.nvim
